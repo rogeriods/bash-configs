@@ -15,7 +15,7 @@
     "terminal.integrated.showExitAlert": false,
     "explorer.compactFolders": false,
     "breadcrumbs.enabled": false,
-    //"editor.fontFamily": "FiraCode Nerd Font Mono",
+    "editor.fontFamily": "CodeNewRoman Nerd Font",
     "workbench.productIconTheme": "fluent-icons",
     "editor.bracketPairColorization.enabled": false,
     "editor.rulers": [
